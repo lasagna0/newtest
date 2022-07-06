@@ -17,20 +17,20 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Que hay de nuevo?"
-    text: "Rossetta concentra las funciones de la antigua pandora, de una manera mas familiar y facil de navegar"
+    title: "El alma de Rossetta"
+    text: "Rossetta incluye los servicios de pandora y mas"
     section: services
     list:
-      - title: "Informacion Concetrada"
-        desc: "Al ingresar a Rossetta encontraras la informacion necesaria sin necesidad de tantos clicks. Quieres obtener documentos o saber los eventos que se avecinan? No te preocupes, Rossetta lo tiene."
+      - title: "Pagina de inicio"
+        desc: "Se un Pro! Al ingresar a Rossetta obtendras todos los datos de eventos en su menu interactivo."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
-      - title: ""
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+      - title: "Acceso simple"
+        desc: "Buscas documentos? Accede de inmediato al repositorio"
+        icon: fa-solid fa-boxes-packing
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Al soportarse con el lenguaje Markdown, obtenemos un diseño mas limpio y con muchas mas posibilidades"
         icon: fab fa-markdown
-
+        
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
