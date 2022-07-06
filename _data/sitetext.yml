@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Acceso simple"
         desc: "Buscas documentos? Accede de inmediato al repositorio"
-        icon: fa-solid fa-boxes-packing
+        icon: fas fa-boxes-packing
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Al soportarse con el lenguaje Markdown, obtenemos un diseño mas limpio y con muchas mas posibilidades"
         icon: fab fa-markdown
