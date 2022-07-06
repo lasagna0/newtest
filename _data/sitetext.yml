@@ -11,20 +11,20 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Bienvenido a Rossetta (Beta 1.3)!
+    text: Repositorio de informacion y eventos de Probarranquilla
+    button: Ingresar
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Que hay de nuevo?"
+    text: "Rossetta concentra las funciones de la antigua pandora, de una manera mas familiar y facil de navegar"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Informacion Concetrada"
+        desc: "Al ingresar a Rossetta encontraras la informacion necesaria sin necesidad de tantos clicks. Quieres obtener documentos o saber los eventos que se avecinan? No te preocupes, Rossetta lo tiene."
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
+      - title: ""
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
